@@ -10,18 +10,15 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
-
 ### 🌟 About Me
 
 ```javascript
 const islam = {
     location: "Arab American University, Palestine",
     currentFocus: "Computer Systems Engineering",
-    philosophy: "Every day is a step closer to the person I want to become",
-    interests: ["Technology", "Fitness", "Sports", "Innovation"],
     futureGoals: "Learn more technologies - Never stop creating new ideas",
-    lifeBalance: "Code 💻 | Train 🏋️ | Repeat 🔄"
+   lifeBalance: "Pray 🕌 | Code 💻 | Train 🏋️ | Eat 🍽️ | Repeat 🔄"
+
 };
 ```
 
