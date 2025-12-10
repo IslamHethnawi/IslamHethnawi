@@ -14,8 +14,7 @@
 
 ```javascript
 const islam = {
-    location: "Arab American University, Palestine",
-    currentFocus: "Computer Systems Engineering",
+
     futureGoals: "Learn more technologies - Never stop creating new ideas",
    lifeBalance: "Pray 🕌 | Code 💻 | Train 🏋️ | Eat 🍽️ | Repeat 🔄"
 
